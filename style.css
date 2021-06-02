@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#pre-load {
+    min-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+#pre-laod img{
+    width: 30%;
+    height: 30%;
+}
+#container{
+    display: none;
+    text-align: center;
+}
